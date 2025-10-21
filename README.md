@@ -1,6 +1,15 @@
-# T001-2025.SEMDEC-SA
+<div align="center">
+<h1>T001-2025.SEMDEC-SA</h1>
+<p>Repositório de aprendizados e projetos da Turma 2025 NextCoders.
+</div>
+
 
 ## Sumário
+- [Colaboradores](#colaboradores)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Aprendizados Recentes](#aprendizados-recentes)
+- [Desafios Resolvidos](#desafios-resolvidos)
+- [Materiais de Apoio](#materiais-de-apoio)
 
 ## Colaboradores 
 
@@ -10,5 +19,34 @@
 | Antonio Vitório | @antoniov7 |
 | David Lucas | @DavidLuccass |
 | Ian Luis | @ianzinho23 |
+
+
+
+## Tecnologias Utilizadas
+| Tecnologia | Finalidade | <br>
+|------------|------------| <br>
+| **Git e GitHub** | Controle de Versão e Contribuição | <br>
+| **Markdown** | Anotações e Formatação de Arquivos | <br>
+| **Visual Studio Code** | Edição e organização de código |
+
+## Aprendizados Recentes
+- Fundamentos do **Git e GitHub**
+
+## Desafios Resolvidos
+| Aula | Desafio | Status | Link | <br>
+|------|---------|--------|------| <br>
+| 01 | Jogo da Velha | Concluído | [Ver desafio](https://github.com/antoniov7/jogo-da-velha) | <br>
+| 02 | Tabuleiro Xadrez/Dama | Concluído | [Ver desafio](https://github.com/antoniov7/tabuleiro-xadrez) | <br>
+
+## Materiais de Apoio
+- [Documentação Oficial do Git](https://git-scm.com/docs/git/pt_BR)
+- [Documentação Oficial do Visual Studio Code](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+- [Curso Gratuito de Markdown](https://www.udemy.com/course/aprenda-markdown/)
+
+
+
+
+
+
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
