@@ -30,20 +30,23 @@
 
 
 ## Tecnologias Utilizadas
-| Tecnologia | Finalidade | <br>
-|------------|------------| <br>
-| **Git e GitHub** | Controle de Versão e Contribuição | <br>
-| **Markdown** | Anotações e Formatação de Arquivos | <br>
+
+| Tecnologia | Finalidade |
+|------------|------------|
+| **Git e GitHub** | Controle de versão e contribuição |
+| **Markdown** | Anotações e formatação de arquivos |
 | **Visual Studio Code** | Edição e organização de código |
 
 ## Aprendizados Recentes
 - Fundamentos do **Git e GitHub**
 
 ## Desafios Resolvidos
-| Aula | Desafio | Status | Link | <br>
-|------|---------|--------|------| <br>
-| 01 | Jogo da Velha | Concluído | [Ver desafio](https://github.com/antoniov7/jogo-da-velha) | <br>
-| 02 | Tabuleiro Xadrez/Dama | Concluído | [Ver desafio](https://github.com/antoniov7/tabuleiro-xadrez) | <br>
+
+| Aula | Desafio | Status | Link |
+|------|---------|--------|------|
+| 01 | Jogo da Velha | Concluído | [Ver desafio](https://github.com/antoniov7/jogo-da-velha) |
+| 02 | Tabuleiro Xadrez/Dama | Concluído | [Ver desafio](https://github.com/antoniov7/tabuleiro-xadrez) |
+
 
 ## Materiais de Apoio
 - [Documentação Oficial do Git](https://git-scm.com/docs/git/pt_BR)
