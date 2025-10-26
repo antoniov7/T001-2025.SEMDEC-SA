@@ -32,9 +32,7 @@
 | Raiele Silva | @raielesilva |
 | Nicole Menezes | @nclmenezes |
 
-<<<<<<< HEAD
 
-=======
 
 ## Tecnologias Utilizadas
 
@@ -63,7 +61,6 @@
 
 
 
->>>>>>> 394c2a3fa6a7f2ab9deda4059f40804c87927d88
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
 
 ## Objetivos
