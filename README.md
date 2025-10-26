@@ -25,16 +25,12 @@
 | David Lucas | @DavidLuccass |
 | Ian Luis | @ianzinho23 |
 | Mateus Farias | @mateusfariasff |
-| Luan mascarenhas | @luanmascarenhas26 |
+| Luan Mascarenhas | @luanmascarenhas26 |
 | Caio Guilherme | @Caioguilherme94 |
 | Viviane Campos | @vivianejcampos |
 | Jeferson Pereira Oliveira | @jefersonibfe |
 | Raiele Silva | @raielesilva |
 | Nicole Menezes | @nclmenezes |
-
-
-
-
 
 
 ## Tecnologias Utilizadas
@@ -49,11 +45,8 @@
 - Fundamentos do **Git e GitHub**
 
 ## Desafios Resolvidos
+[Todos os nossos desafios resolvidos estão aqui!](Desafios_Resolvidos/)
 
-| Aula | Desafio | Status | Link |
-|------|---------|--------|------|
-| 01 | Jogo da Velha | Concluído | [Ver desafio](https://github.com/antoniov7/jogo-da-velha) |
-| 02 | Tabuleiro Xadrez/Dama | Concluído | [Ver desafio](https://github.com/antoniov7/tabuleiro-xadrez) |
 
 
 ## Materiais de Apoio
