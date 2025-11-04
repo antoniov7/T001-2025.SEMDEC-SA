@@ -1,21 +1,46 @@
 <div align="center">
-<h1>404 Turma Not Found</h1>
-<p>Repositório de aprendizados e projetos da Turma 2025 NextCoders.
+
+# 💻 404 Turma Not Found
+
+📚 Repositório de aprendizados e projetos da **Turma 2025 NextCoders**. 
+
+---
+
+<!-- Status -->
+![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
+
+<!-- Linha 1 -->
+![Contribuidores](https://img.shields.io/github/contributors/wssantanna/404_Turma_Not_Found?color=green&style=for-the-badge&label=Contribuidores)
+![Último Commit](https://img.shields.io/github/last-commit/wssantanna/404_Turma_Not_Found?color=orange&style=for-the-badge&label=Último%20Commit)
+
+<!-- Linha 2 -->
+![Pull Requests](https://img.shields.io/github/issues-pr/wssantanna/404_Turma_Not_Found?color=purple&style=for-the-badge&label=Pull%20Requests)
+![Issues Abertas](https://img.shields.io/github/issues/wssantanna/404_Turma_Not_Found?color=yellow&style=for-the-badge&label=Issues%20Abertas)
+
+
 </div>
 
-## Objetivos
-- Este repositório visa compreender, aprender e praticar, colocando em prática os conhecimentos adquiridos no curso e relacionados ao GitHub.
+---
 
-## Sumário
-- [Colaboradores](#colaboradores)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Aprendizados Recentes](#aprendizados-recentes)
-- [Desafios Resolvidos](#desafios-resolvidos)
-- [Como Contribuir](#-como-posso-contribuir)
-- [Materiais de Apoio](#materiais-de-apoio)
+## 🎯 Objetivos
 
+> 💡 Este repositório visa compreender, aprender e praticar, colocando em prática os conhecimentos adquiridos no curso e relacionados ao GitHub.
 
-## Colaboradores 
+---
+
+## 📚 Sumário
+
+- [👥 Colaboradores](#colaboradores)
+- [🛠️ Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [📖 Aprendizados Recentes](#aprendizados-recentes)
+- [🧠 Desafios Resolvidos](#desafios-resolvidos)
+- [🧩 Como Posso Contribuir](#-como-posso-contribuir)
+- [📎 Materiais de Apoio](#materiais-de-apoio)
+
+---
+
+## 👥 Colaboradores 
+
 <details>
   <summary><b>🔹 Clique para ver os colaboradores! 🔹</b></summary>
 
@@ -40,9 +65,12 @@
 | Joadson Reis | [@Joadsonreis1](https://github.com/Joadsonreis1) |
 | Kauane Barbosa | [@bkauane](https://github.com/bkauane) |
 | Erick Lima | [@ericklimasdev](https://github.com/ericklimasdev) |
+
 </details>
 
-## Tecnologias Utilizadas
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 | Tecnologia | Finalidade |
 |------------|------------|
@@ -50,17 +78,24 @@
 | **Markdown** | Anotações e formatação de arquivos |
 | **Visual Studio Code** | Edição e organização de código |
 
-## Aprendizados Recentes
-- Fundamentos do **Git e GitHub**
+---
 
-## Desafios Resolvidos
-🔹[Todos os nossos desafios resolvidos estão aqui!](Desafios_Resolvidos/)🔹
+## 📖 Aprendizados Recentes
 
+- Fundamentos do **Git e GitHub** 
+
+---
+
+## 🧠 Desafios Resolvidos
+
+🔹 [Clique aqui para ver todos os desafios resolvidos!](Desafios_Resolvidos/) 🔹 
+
+---
 
 ## 🧩 Como posso contribuir
+
 <details>
   <summary><b>🧩 Clique aqui para ver como contribuir!</b></summary>
-
 
 ### 🪄 Modalidades de Contribuição
 
@@ -75,43 +110,44 @@
 
 ### ⚙️ Passo a Passo para Contribuir
 
-1. **Faça um Fork desse repositório.** <br>
-2. **Crie uma nova branch para suas alterações:**<br> git checkout -b nome-branch-nova <br>
-3. **Realize suas mudanças**<br> (adicione, edite, melhore o arquivo).
-4. **Faça o commit das alterações:**<br> git commit -m "Descrição curta da contribuição"
-5. **Envie para o seu Fork:**<br> git push origin nome-branch-nova
-6. **Abra um Pull Request (PR) explicando claramente o que foi feito.**
+1. **Faça um Fork desse repositório.**  
+2. **Crie uma nova branch para suas alterações:**  
+   `git checkout -b nome-branch-nova`  
+3. **Realize suas mudanças**  
+   (adicione, edite, melhore o arquivo).  
+4. **Faça o commit das alterações:**  
+   `git commit -m "Descrição curta da contribuição"`  
+5. **Envie para o seu Fork:**  
+   `git push origin nome-branch-nova`  
+6. **Abra um Pull Request (PR)** explicando claramente o que foi feito.
 
 ---
 
 ### 📏 Boas Práticas
 
-✅ **Siga o padrão de escrita e formatação já usado no repositório.<br>
-✅ Nomeie arquivos e pastas de forma clara e organizada.<br>
-✅ Não envie arquivos temporários ou irrelevantes.<br>
-✅ Seja respeitoso e colaborativo nas revisões e comentários.**
+✅ Siga o padrão de escrita e formatação já usado no repositório.  
+✅ Nomeie arquivos e pastas de forma clara e organizada.  
+✅ Não envie arquivos temporários ou irrelevantes.  
+✅ Seja respeitoso e colaborativo nas revisões e comentários.
 
 ---
 
 ### 🆘 Dúvidas?
 
-**Se tiver dúvidas sobre como contribuir, abra uma Issue ou entre em contato com os administradores do repositório.**
+Se tiver dúvidas sobre como contribuir, abra uma **Issue** ou entre em contato com os administradores do repositório.
 
-</details><br>
+</details>
 
+---
 
+## 📎 Materiais de Apoio
 
-## Materiais de Apoio
-- [Documentação Oficial do Git](https://git-scm.com/docs/git/pt_BR)
-- [Documentação Oficial do Visual Studio Code](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
-- [Curso Gratuito de Markdown](https://www.udemy.com/course/aprenda-markdown/)
+- [📘 Documentação Oficial do Git](https://git-scm.com/docs/git/pt_BR)
+- [🧩 Documentação Oficial do Visual Studio Code](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+- [📗 Curso Gratuito de Markdown](https://www.udemy.com/course/aprenda-markdown/)
 
+---
 
-
-
-
-
-
-
-
-© Todos os direitos reservados aos [Colaboradores](#colaboradores).
+<p align="center">
+  © Todos os direitos reservados aos <a href="#colaboradores">Colaboradores</a>.
+</p>
